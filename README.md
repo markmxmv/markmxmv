@@ -1,4 +1,4 @@
-<div style="margin: auto">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmxmv&hide=prs,issues&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmxmv&hide=prs,issues&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **I am a Russian developer, currently studying in Italy**
 
