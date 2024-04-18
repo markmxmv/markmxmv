@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmxmv&hide=prs,issues&theme=transparent&border_color=30363d&icon_color=6bd064&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmxmv&hide=prs,issues&theme=transparent&border_color=30363d&icon_color=6bd064&text_color=9f9f9f&title_color=ffffff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **My stack:**
 <code><img height="20" alt="javascript" src="./images/JavaScript.png"></code>
